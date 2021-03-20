@@ -1,0 +1,5 @@
+/.htaccess
+/.metadata
+.idea
+node_modules
+/app/.env
